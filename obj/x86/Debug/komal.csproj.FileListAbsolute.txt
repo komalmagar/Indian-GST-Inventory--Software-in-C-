@@ -1,0 +1,16 @@
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\bin\Debug\komal.exe
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\bin\Debug\komal.pdb
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.Form1.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.HOME.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.Properties.Resources.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.csproj.GenerateResource.Cache
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.exe
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.pdb
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.PRODUCTS.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\bin\Debug\productsdata.sdf
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\bin\Debug\komal.exe.config
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\bin\Debug\pro.sdf
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.CUSTOMER.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.REPORTS.resources
+c:\users\komal\documents\visual studio 2010\Projects\komal\komal\obj\x86\Debug\komal.PRODUCTMASTER.resources
+C:\Users\komal\Documents\Visual Studio 2010\Projects\komal\komal\obj\x86\Debug\komal.csprojResolveAssemblyReference.cache
